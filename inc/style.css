@@ -1,0 +1,7 @@
+.navbar {background: #f3f3f3;border: 1px solid #ddd;padding: 0 0;margin: 0 0 14px;}
+.footnavbar {background: #f3f3f3;border: 1px solid #ddd;padding: 15px 15px;}
+.titl {border: 1px solid #ddd;background: #f3f3f3;padding: 10px 12px;}
+.panel {padding: 30px 0; border: 1px solid #ddd;border-top: none;}
+.loginform{width: 50%; margin: 0 auto; }
+.titl .btn {display: inline;}
+button {cursor: pointer;}
